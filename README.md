@@ -1,2 +1,2 @@
-# CSC466Lab1
-CSC 466 Lab 1
+need to finish uploading the rest of these
+
